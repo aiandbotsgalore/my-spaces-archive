@@ -188,7 +188,7 @@ jobs:
           REPO: ${{ github.repository }}
           PODCAST_TITLE: "My Spaces Archive"
           PODCAST_DESC: "An automated archive of audio spaces."
-          PODCAST_AUTHOR: "logan black"
+          PODCAST_AUTHOR: "Logan Black"
           PODCAST_EMAIL: "loganblack0@gmail.com"
           PODCAST_IMAGE: ""
         run: |

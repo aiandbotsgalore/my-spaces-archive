@@ -67,4 +67,4 @@ Submit this URL to Apple Podcasts, YouTube Podcasts, Spotify, etc.
 
 ## Author
 
-logan black · loganblack0@gmail.com
+Logan Black · loganblack0@gmail.com
